@@ -24,8 +24,8 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][instagram]
+[<img align="left" alt=" LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt=" Instagram" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][instagram]
 
 <br />
 
